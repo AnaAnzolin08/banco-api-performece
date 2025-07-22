@@ -3,7 +3,7 @@
 Este repositório com testes de performance automatizados desenvolvidos com a ferramenta [Grafana K6](https://k6.io/) e escritos em
 JavaScript, voltados para a API do sistema bancário.
 
-Repositorio:https://github.com/AnaAnzolin08/banco-api-performece
+:https://github.com/AnaAnzolin08/banco-api-performece
 
 
 ## × Introdução
